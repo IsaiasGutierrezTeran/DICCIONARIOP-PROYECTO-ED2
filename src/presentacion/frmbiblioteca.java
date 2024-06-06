@@ -10,10 +10,7 @@ import negocio.ArbolMVias;
 import negocio.IArbolBinario;
 import java.util.List;
 
-/**
- *
- * @author Jhonny Duran Marin
- */
+
 public class frmbiblioteca extends javax.swing.JFrame {
 
     IArbolBinario<String, String> arbol;
